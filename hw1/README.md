@@ -122,3 +122,17 @@ java Evaluator sample_tc.txt
 
 # You can create your own test cases to test your implementation
 ```
+
+## Frequently Asked Questions
+
+Q: What version of Java with what packages will the autograder compile submitted code?
+
+A: Your solution will be compiled using JDK 17 with no additional libraries or packages.
+
+Q: How do we submit our local files to Gradescope for project submissions?
+
+A: Submit your solution "ValleyTraveler.java" and any additional java files you produce directly to the Gradescope submission page.
+
+Q: Is there a specific IDE that we have to use or any recommended IDEs?
+
+A: No specific IDE is required, use whichever one you prefer.
