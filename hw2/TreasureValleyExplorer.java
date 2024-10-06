@@ -166,7 +166,6 @@ public class TreasureValleyExplorer {
      * @param depth The depth that we want to count valleys for
      *
      * @return The number of valleys of the specified depth
-     * @return null if no valleys of the specified depth exist
      */
     public int getValleyCount(int depth) {
         // TODO: Implement the getValleyCount method
