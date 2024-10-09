@@ -64,6 +64,7 @@ An element $A_{i}$ is a peak point if and only if:
 - For $0 < i < n-1$: $A_{i} > A_{i-1}$ and $A_{i} > A_{i+1}$
 
 Let $D(i)$ be the depth of a descend point at index $i$.
+- $D(0) = 0$
 - $D(i) = 0$ if $A_{i}$ is a peak point
 - $D(i) = D(i-1) + 1$ if $A_{i} < A_{i-1}$
 
