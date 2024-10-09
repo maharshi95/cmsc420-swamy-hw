@@ -106,7 +106,7 @@ Depths:     [ 0,  1,  0,  1,  0,  0,  1,  2,  3,  0]
 ```
 ![New Landscape](visualization_step1.png)
 
-3. `insertAtLeastValuableValley(7, 22, 1)` inserts a new landform of height 7 with value 22 before the least valuable valley at depth 1 (index 1), returning `true`.
+3. `insertAtLeastValuableValley(2, 22, 1)` inserts a new landform of height 2 with value 22 before the least valuable valley at depth 1 (index 1), returning `true`.
 ```
 New landscape:
 Index:      [ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]
