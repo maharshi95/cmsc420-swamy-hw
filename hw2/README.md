@@ -42,7 +42,7 @@ For example, in the landscape with heights [1, 2, 5, 7, 6, 5, 3, -1, 9]:
 - -1 has a depth of 4
 
 **Definitions:**
-- A __descend point__ is a landform that can be part of a descend sequence. In other words, its height is lower than its immediate predecessor, or higher than its immediate successor. <br> E.g. 5, 3 and 3 are descend points in [1, 5, 3, 2].
+- A __descend point__ is a landform that can be part of a descend sequence. In other words, its height is lower than its immediate predecessor, or higher than its immediate successor. <br> E.g. 5, 3 and 2 are descend points in [1, 5, 3, 2].
 - An __ascend point__ is a landform that can be part of an ascend sequence. In other words, its height is higher than its immediate predecessor, or lower than its immediate successor. <br> E.g. 1 and 5 are ascend points in [1, 5, 3, 2].
 - A __valley__ is a landform that is lower than its neighboring landforms.
 - A __peak__ is a landform that is higher than its neighboring landforms.
