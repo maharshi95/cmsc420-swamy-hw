@@ -116,7 +116,7 @@ Depths:     [ 0,  1,  2,  0,  1,  0,  0,  1,  2,  3,  0]
 ```
 ![New Landscape](visualization_step2.png)
 
-4. `insertAtLeastValuableValley(10, 9, 4)` attempts to insert a new landform of height 10 with value 9 at the least valuable valley at depth 2, but since it's not possible, it returns `false`.
+4. `insertAtLeastValuableValley(10, 9, 4)` attempts to insert a new landform of height 10 with value 9 at the least valuable valley at depth 4, but since it's not possible, it returns `false`.
 
 5. `getLeastValuableValley(5)` returns `null` since there is no valley at depth 5.
 6. `getLeastValuableValley(3)` returns `(3, 2)`, the only valley at depth 3 (index 9).
