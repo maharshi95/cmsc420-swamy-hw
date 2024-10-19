@@ -20,9 +20,9 @@ The class should have the following methods:
 
 2. `boolean insertAtLeastValuableValley(int height, int value, int depth)`: Similar to `insertAtMostValuableValley`, but inserts at the position (before) of the least valuable valley point at the specified depth. Returns `true` if the insertion is successful, `false` otherwise.
 
-3. `IntPair removeMostValuableValley(int depth)`: Removes the most valuable valley point at the specified depth. It is guaranteed that at least one valley point exists at the specified depth.
+3. `IntPair removeMostValuableValley(int depth)`: Removes the most valuable valley point at the specified depth.
 
-4. `IntPair removeLeastValuableValley(int depth)`: Similar to `removeMostValuableValley`, but removes the least valuable valley point at the specified depth. It is guaranteed that at least one valley point exists at the specified depth.
+4. `IntPair removeLeastValuableValley(int depth)`: Similar to `removeMostValuableValley`, but removes the least valuable valley point at the specified depth.
 
 5. `IntPair getMostValuableValley(int depth)`: Returns the height and value of the most valuable valley point at the specified depth as an `IntPair`. If no valley point exists at the specified depth, the method should return `null`.
 
