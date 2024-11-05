@@ -30,7 +30,7 @@ You may make the following assumptions:
 ## :briefcase: Requirements
 
 1. Implement the `TaskPrioritizer` class in `TaskPrioritizer.java`.
-2. The class should efficiently handle a large number of tasks (up to 100,000).
+2. The class should efficiently handle a large number of tasks (up to 500,000).
 3. Implement all the methods described in the problem description.
 4. Ensure that task dependencies are correctly managed and respected during resolution.
 5. Optimize for efficient addition, update, and resolution operations.
