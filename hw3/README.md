@@ -62,7 +62,7 @@ In cases where multiple tasks have the same priority and all of their dependenci
 6. `resolve()` returns "T3"
 7. `add("T4", 2, [])`
 8. `add("T5", 6, [])`
-9. `update("T5", 6)`
+9. `update("T4", 6)`
 10. `resolve()` returns "T4"
 11. `resolve()` returns "T5"
 
