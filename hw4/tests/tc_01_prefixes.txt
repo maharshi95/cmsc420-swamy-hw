@@ -1,0 +1,16 @@
+15
+1 apple A red fruit
+1 apricot An orange fruit
+1 avocado A green fruit
+1 banana A yellow fruit
+4 a 3
+4 b 1
+4 c 0
+1 cat A feline
+1 category A classification
+4 cat 2
+4 ca 2
+2 apple
+4 a 2
+2 avocado
+4 a 1 
