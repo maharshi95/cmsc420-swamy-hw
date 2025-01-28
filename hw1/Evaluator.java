@@ -24,6 +24,8 @@ class Operation {
         this.arg = arg;
     }
 
+    
+
     /**
      * Returns a string representation of the operation.
      * 
